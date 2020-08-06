@@ -22,5 +22,6 @@ I'm a lazy person. Yes, right.
 ![fortifying's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fortifying&show_icons=true)
  
 **Main Repos:**
-<p align="center"><a href="https://github.com/fortifying/OUBnew"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fortifying&repo=OUBnew&show_owner=true"></a></p>
+
+<a href="https://github.com/fortifying/OUBnew"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fortifying&repo=OUBnew&show_owner=true"></a>
 
